@@ -6,7 +6,7 @@ In this project, I Will use Linear regression model to analyze what environment 
 Create a tool to predict the average temperature in the area using significant environment factors. Using this tool, one can predict the temperature in an area using:  albedo, fraction of low cloud, specific humidity, and incoming shortwaveflux. A prediction in South Bend temperature is featured below (MSE = 6.15). <br />
 ![](image/fitted%20value.PNG)  <br />
 # [Project 2:opioid use in Indiana](https://github.com/oceancode1997/southbendtemperature)
-In this project, I use the opioid sales data from the [Washington Post](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/) to find out what risk factors are significantly associate with opioid use in Indiana  <br />
+In this project, I use the opioid sales data from the [Washington Post](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/) to find out what risk factors are significantly associate with opioid use in Indiana.  <br />
 The assocciated risks factor are mainly collected in [bureau census](https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#POP) and a few other sources.  <br />
 By using the spatial temporal model for data from 2006-2011, I was able to find that unemployment rate and white proportion are the most significant risk factors. Counties that have higher unemployment rate consume higher opioid on average, and counties that have higher white population consume less opioid on average.  <br />
 Using the model, I also predicted the average opioid use in Indiana in 2012 and get MSE of 28.2. <br />
