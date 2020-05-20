@@ -16,5 +16,5 @@ We use SP 500 data from 1986 to 2018. We split data from 1986-2017 as training d
 The best model has forecast MSE of 0.0012 and accurately predicts the log return of S&P within 2 yearperiod within 2%. The model is shown below. <br />
 ![](https://github.com/oceancode1997/SP500priceprediction/blob/master/SP500%20model.PNG)
 # [Project 3: Simulation study: what criterion is best for linear model selection](https://github.com/oceancode1997/Stimulation-study-what-criterion-is-best-for-linear-model)
-Use simulation to find among popular criterion for model selection: AIC, BIC, Radjusted, PRESS, Mallow Cp. what is the best criterion to use when performing linear model selection
-Found that BIC outperforms other criterion is various settings.
+Use simulation to find among popular criterion for model selection: AIC, BIC, Radjusted, PRESS, Mallow Cp. what is the best criterion to use when performing linear model selection. <br />
+Found that BIC outperforms other criterion is various settings. <br />
