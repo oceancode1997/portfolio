@@ -19,5 +19,5 @@ We use SP 500 data from 1986 to 2018. We split data from 1986-2017 as training d
 # [Project 4: Simulation study: what criterion is best for linear model selection](https://github.com/oceancode1997/Stimulation-study-what-criterion-is-best-for-linear-model)
 - Use simulation to find among popular criterion for model selection: AIC, BIC, Radjusted, PRESS, Mallow Cp. what is the best criterion to use when performing linear model selection. <br />
 - Found that BIC outperforms other criterion is various settings. <br />
-# Some of the smaller projects/competition I worked on
+### Some of the smaller projects/competition I worked on
 - (Titanic Survival Analysis)[https://www.kaggle.com/oceancode/titanic-survival-analysis-how-to-do-it-in-r]
