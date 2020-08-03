@@ -21,3 +21,6 @@ We use SP 500 data from 1986 to 2018. We split data from 1986-2017 as training d
 - Found that BIC outperforms other criterion is various settings. <br />
 ### Some of the smaller projects/competition I worked on
 - (Titanic Survival Analysis)[https://www.kaggle.com/oceancode/titanic-survival-analysis-how-to-do-it-in-r]
+- (Housing prediction using multiple linear regression)[https://www.kaggle.com/oceancode/linear-regression-for-house-prediction]
+- (Digit recognizer using convolutional neural network)[https://www.kaggle.com/oceancode/digit-recognizer]
+- (space invader game)[https://github.com/oceancode1997/spaceinvader]
