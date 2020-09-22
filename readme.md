@@ -16,10 +16,13 @@ Here are some of the projects I worked on the past.
 We use SP 500 data from 1986 to 2018. We split data from 1986-2017 as training data, 2017-2018 as our test data. We also see if the best model works from 2018-2019. <br />
 - The best model has forecast MSE of 0.0012 and accurately predicts the log return of S&P within 2 yearperiod within 2%. The model is shown below. <br />
 ![](image/SP500%20model.PNG)
-# [Project 4: Simulation study: what criterion is best for linear model selection](https://github.com/oceancode1997/Stimulation-study-what-criterion-is-best-for-linear-model)
+# [Project 4: Image Recognition for CORONA lung X-ray](https://www.kaggle.com/oceancode/corona-image-recognition-analysis)
+- Use Keras Neural Network to detect image that can detect if a person has corona based on their Xray image
+- Achieve 96% accuracy on test data, but only 75% accuracy on validation data
+# [Project 5: Simulation study: what criterion is best for linear model selection](https://github.com/oceancode1997/Stimulation-study-what-criterion-is-best-for-linear-model)
 - Use simulation to find among popular criterion for model selection: AIC, BIC, Radjusted, PRESS, Mallow Cp. what is the best criterion to use when performing linear model selection. <br />
 - Found that BIC outperforms other criterion is various settings. <br />
-### Some of the smaller projects/competition I worked on
+### Some of the smaller projects I worked to teach students
 - (Titanic Survival Analysis)[https://www.kaggle.com/oceancode/titanic-survival-analysis-how-to-do-it-in-r]
 - (Housing prediction using multiple linear regression)[https://www.kaggle.com/oceancode/linear-regression-for-house-prediction]
 - (Digit recognizer using convolutional neural network)[https://www.kaggle.com/oceancode/digit-recognizer]
